@@ -1,0 +1,6 @@
+1. create file
+2. open file
+3. edit file
+4. save file
+5. copy
+6. delete
